@@ -1,4 +1,6 @@
 /.DS_Store
 /.ipynb_checkpoints
 /data
+/legacy_data
 /NotebookNotifications
+/results
